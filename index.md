@@ -3,7 +3,7 @@ layout: default
 description: This is the demo
 
 ---
-![alt text](./profile.jpg)
+![alt text](./profile.jpg =20x20)
 # Projects
 - Lesson 1 
 - Lesson 2 
